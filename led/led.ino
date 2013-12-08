@@ -1,4 +1,4 @@
-const int led = 13;
+const int LED = 13;
 void setup(){
     pinMode(LED, OUTPUT);
     digitalWrite(LED, HIGH);
@@ -7,4 +7,3 @@ void setup(){
 void loop(){
     //not doing anything here
 }
-
